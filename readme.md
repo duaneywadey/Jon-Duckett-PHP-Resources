@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>PHP &amp; MySQL</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css" />
-    <style> p, ul, li {text-align: left; max-width: 32rem; margin: 0 auto 1rem auto; line-height: 1.4rem;} </style>
-  </head>
   <body>
     <h1 id="header">PHP &amp; MySQL</h1>
     <p>The code in this folder is to accompany our <a href="https://phpandmysql.com/">PHP &amp; MySQL book</a>.</p>
